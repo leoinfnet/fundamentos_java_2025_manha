@@ -1,0 +1,28 @@
+1 - Escreva um programa que receba um inteiro do teclado e imprima se ele é par ou ímpar.
+2- Escreva um programa que receba uma nota de um aluno e diga se ele foi aprovado, reprovado ou ficou de recuperação, sendo:  
+Nota 7 ou mais : Passou direto
+	Entre 5 e 6.9: Recuperação
+	Menor que 5: Reprovado
+3 - Escreva um programa que receba o raio de uma circunferência e mostre o diâmetro, o comprimento e a área desta.
+4 -  Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre o mais barato.  
+5 -  Faça um programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-vespertino ou N-noturno. Imprima a mensagem “Bom dia!” ou  “Boa Noite” ou “Valor inválido”, conforme o caso.  
+6 -  Para doar sangue é necessário ter entre 18 e 67 anos. Faça um aplicativo que pergunte a idade de uma pessoa e diga se ela pode doar sangue ou não
+7 - Escreva um programa que pergunte o dia, mês e ano do aniversário de uma pessoa e diga se a data é válida ou não. Caso não seja, diga o motivo. Suponha que todos os meses tem 31 dias e que estejamos no ano de 2013.
+8 - Crie um programa que peça um número ao usuário e armazene ele na variável x. Depois peça outro número e armazene na variável y. Mostre esses números. Em seguida, faça com que x passe a ter o valor de y, e que y passe a ter o valor de x.
+9 - Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+“Telefonou para a vítima? “
+“Esteve no local do crime?”
+“Mora perto da vítima? “
+“Devia para a vítima? “
+“Já trabalhou com a vítima? “
+O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como “Suspeita”, entre 3 e 4 como “Cúmplice” e 5 como “Assassino“. Caso contrário, ele será classificado como “Inocente“.  
+10- Um posto está vendendo combustíveis com a seguinte tabela de descontos:   Álcool:
+Até 20 litros: desconto de 3% por litro
+Acima de 20 litros: Desconto de 5% por litro 99.
+Gasolina:
+Até 20 litros: desconto de 4% por litro
+Acima de 20 litros, desconto de 6% por litro
+Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool. G-gasolina), calcule e imprima o valor a ser pago pelo cliente.  
+Considere o Preço da Gasolina como 5 reais o litro, e o do Alcool como 4 reais o litro.
+11 -  Escreva um programa que pede os coeficientes de uma equação do segundo grau e exibe as raízes, utilizando a fórmula de Bhaskara. 
+12- Escreva um programa que receba uma letra do alfabeto e transforme ela para o case contrário. 
