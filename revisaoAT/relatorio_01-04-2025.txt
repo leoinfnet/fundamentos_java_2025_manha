@@ -1,0 +1,5 @@
+Relatorio de Pagamentos 
+Gerado em : 01-04-2025
+Funcionario leo - Pagamento: 1400.0
+Funcionario pedro - Pagamento: 1800.3
+Funcionario maria - Pagamento: 52500.0
